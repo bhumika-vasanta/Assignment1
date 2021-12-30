@@ -2,3 +2,4 @@ change for WI4 for rebase with conflict
 change for rebase on cr2
 change for pull
 change 6
+checking conflict
